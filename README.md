@@ -92,6 +92,7 @@
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for DeFi market data, derivatives positioning, DEX flow, on-chain risk, and narrative rotation.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
 - [Pharos](https://pharos.watch/) — Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
+- [TronOrb](https://tronorb.com/) — TRON DeFi analytics: TVL of DEXs, lending and bridges on TRON, stablecoin supply, exchange reserves, and energy/fee data.
 
 ## Security and Auditing
 
